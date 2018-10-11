@@ -9,3 +9,6 @@ Usage example (time argument is optional, 60s is the default)
 rpoll Is this a poll?;Yes;No;Maybe;Not Sure;t=3d12h30m15s
 
 []rpoll stop
+
+
+Also found on GitLab > https://gitlab.com/tazza/react_poll
