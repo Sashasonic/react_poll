@@ -8,4 +8,4 @@ Starts/stops a reaction poll
 Usage example (time argument is optional, 60s is the default)
 rpoll Is this a poll?;Yes;No;Maybe;t=3d12h30m15s
 
-rpoll stop
+[]rpoll stop
